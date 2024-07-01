@@ -1,1 +1,0 @@
-You need a PyQt5 and PyQt5 tools lib, to launch the game
